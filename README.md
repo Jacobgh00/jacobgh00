@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as an Intern at **a Newspaper**
  
- 🌱 I’m currently learning **React, NextJS, TailwindCSS, Scala**
+ 🌱 I’m currently learning **React, NextJS, RemixJS, TailwindCSS, Scala**
 
 ⚡ Fun fact **Bananas are berries, but strawberries aren't**
 
